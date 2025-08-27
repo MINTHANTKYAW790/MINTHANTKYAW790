@@ -1,6 +1,6 @@
 ### Hi there, I'm Min Thant Kyaw 👋
 
-I'm a passionate web developer with a focus on creating robust and scalable applications. I'm currently working to enhance digital banking experiences at **[uab bank](https://uab.com.mm/)**.
+I'm a passionate web developer with a focus on creating robust and scalable applications. I'm currently working to enhance digital banking experiences at **[uab bank](https://www.uab.com.mm/)**.
 
 <br/>
 
